@@ -12,5 +12,5 @@ Este é um projeto de uma simples *Calculadora IMC* desenvolvido utilizando **HT
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar  o Jogo da Velha através deste [link](https://marcellofigueiredo.github.io/imc-calculator/). Basta abrir no seu navegador e começar a usar!
+Você pode acessar através deste [link](https://marcellofigueiredo.github.io/imc-calculator/). Basta abrir no seu navegador e começar a usar!
 
